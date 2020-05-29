@@ -49,7 +49,7 @@ class Result {
         if(left==right){
             break;
         }
-        temp++;
+        x++;
     }
     return(pivot);
 
